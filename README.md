@@ -1,4 +1,4 @@
 # Git
 Git repository
 Änderugen von Großauer
-# Heute E-Sportex?
+# Heute E-Sport?
